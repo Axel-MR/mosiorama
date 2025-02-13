@@ -17,7 +17,7 @@ export default function Gallery() {
     },
     {
       src: "card_04.png",
-      description: "Mosio Sol con Poli y Polo"
+      description: "Mosio Luna con Poli y Polo"
     },
     {
       src: "card_05.png",
